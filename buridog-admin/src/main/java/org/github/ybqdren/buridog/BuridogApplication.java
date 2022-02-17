@@ -4,6 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
+ * <h1> Start Class </h1>
+ *
  * @author zhao wen
  * @data 2022/2/16
  **/
