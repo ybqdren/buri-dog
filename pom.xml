@@ -12,6 +12,8 @@
         <module>buridog-common</module>
         <module>buridog-core</module>
         <module>buridog-admin</module>
+        <module>buridog-mybatis</module>
+        <module>buridog-jpa</module>
     </modules>
 
     <name>buri-dog</name>

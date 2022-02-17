@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="buridog-core" />
         <module name="buridog-common" />
+        <module name="buridog-mybatis" />
         <module name="buridog-admin" />
+        <module name="buridog-jpa" />
       </profile>
     </annotationProcessing>
   </component>
@@ -17,6 +19,8 @@
       <module name="buridog-admin" options="-parameters" />
       <module name="buridog-common" options="-parameters" />
       <module name="buridog-core" options="-parameters" />
+      <module name="buridog-jpa" options="-parameters" />
+      <module name="buridog-mybatis" options="-parameters" />
     </option>
   </component>
 </project>
