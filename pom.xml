@@ -14,6 +14,7 @@
         <module>buridog-admin</module>
         <module>buridog-mybatis</module>
         <module>buridog-jpa</module>
+        <module>buridog-tool</module>
     </modules>
 
     <name>buri-dog</name>
@@ -42,10 +43,6 @@
         <version>2.6.1</version>
         <relativePath/>
     </parent>
-
-    <dependencies>
-
-    </dependencies>
 
     <build>
         <pluginManagement>

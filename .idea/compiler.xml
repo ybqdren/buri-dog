@@ -9,6 +9,7 @@
         <module name="buridog-core" />
         <module name="buridog-common" />
         <module name="buridog-mybatis" />
+        <module name="buridog-tool" />
         <module name="buridog-admin" />
         <module name="buridog-jpa" />
       </profile>
@@ -21,6 +22,7 @@
       <module name="buridog-core" options="-parameters" />
       <module name="buridog-jpa" options="-parameters" />
       <module name="buridog-mybatis" options="-parameters" />
+      <module name="buridog-tool" options="-parameters" />
     </option>
   </component>
 </project>
