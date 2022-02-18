@@ -2,9 +2,19 @@
 
 Java Web 开发脚手架（开发中...）
 
-# 技术栈（计划）
+<br>
+<br>
 
+# 技术栈
+## 计划
 - Spring Boot
-- Mybatis MybatisPlus / Jpa
+- Mybatis MybatisPlus / Jpa && MySQL
 - Redis
+- RabbitMQ
+- Netty
 - ...
+
+## 可能会加入
+- Kafka
+- HBase
+- Spring Cloud 全家桶（微服务化）
