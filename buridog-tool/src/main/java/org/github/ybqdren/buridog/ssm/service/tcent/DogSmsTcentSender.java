@@ -20,7 +20,7 @@ import org.springframework.stereotype.Component;
 import java.util.Optional;
 
 /**
- * <h1> 腾讯云短信接口 </h1>
+ * <h1> 腾讯云短信发送器 </h1>
  *
  * @author zhao wen
  * @data 2022/2/18
