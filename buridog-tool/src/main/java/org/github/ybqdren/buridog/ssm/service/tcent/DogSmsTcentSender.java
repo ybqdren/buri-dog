@@ -36,7 +36,6 @@ public class DogSmsTcentSender implements DogISmsSender {
     private String secretKey;
     private String sdkAppId;
     private String templateId;
-    private String templatePrefix;
     private String signName;
     private String sessionContext;
 
@@ -52,7 +51,6 @@ public class DogSmsTcentSender implements DogISmsSender {
         this.secretKey = config.getSecretKey();
         this.sdkAppId = config.getSdkAppId();
         this.templateId = config.getTemplateId();
-        this.templatePrefix = config.getTemplatePrefix();
         this.signName = config.getSignName();
         this.sessionContext = config.getSessionContext();
     }

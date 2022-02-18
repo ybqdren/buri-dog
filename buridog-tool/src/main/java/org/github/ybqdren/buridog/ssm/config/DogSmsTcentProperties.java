@@ -55,11 +55,6 @@ public class DogSmsTcentProperties {
     private String templateId;
 
     /**
-     * 模板名称前缀
-     */
-    private String templatePrefix;
-
-    /**
      * sign name
      */
     private String signName;
