@@ -5,6 +5,14 @@ Java Web 开发脚手架（开发中...）
 <br>
 <br>
 
+# 功能清单  
+待补
+
+
+
+<br>
+<br>
+
 # 技术栈
 ## 计划
 - Spring Boot
@@ -32,6 +40,15 @@ Java Web 开发脚手架（开发中...）
 - [APIJSON][https://github.com/vincentCheng/apijson-doc]: CRUD 接口生成工具
 - [Sa-Token](https://sa-token.dev33.cn/doc/index.html#/): 鉴权工具
   ...
+
+<br>
+<br>
+
+
+# 项目开发规范
+- [阿里巴巴Java开发手册](https://github.com/alibaba/p3c)
+- [唯品会Java开发手册](https://github.com/vipshop/vjtools)
+
 
 <br>
 <br>
