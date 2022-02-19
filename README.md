@@ -1,13 +1,13 @@
 # buri-dog
 
-Java Web 开发脚手架（开发中...）
+Java SpringBoot 开发脚手架（开发中...）
 
 <br>
 <br>
 
 # 项目结构（计划）
 
-单体项目，基于 DDD 和 CQRS 架构。
+单体项目，基于  DDD（Domain-Driven Design） 和  CQRS（Command Query Responsibility Segregation） 原则。
 
 <br>
 <br>
@@ -60,11 +60,9 @@ Java Web 开发脚手架（开发中...）
 
 - [阿里巴巴Java开发手册](https://github.com/alibaba/p3c)](https://github.com/vipshop/vjtools)
 
-
 ## 文档规范
 
 - [Markdown 官方教程](https://markdown.com.cn/)
-
 
 ## 语言
 
@@ -80,11 +78,9 @@ Java Web 开发脚手架（开发中...）
 
 ...
 
-
 ## 书籍
 
 ....
-
 
 ## 参考项目
 
