@@ -27,6 +27,15 @@ Java Web 开发脚手架（开发中...）
 <br>
 <br>
 
+
+# 使用的开源工具（计划用上）  
+- [APIJSON][https://github.com/vincentCheng/apijson-doc]: CRUD 接口生成工具
+- [Sa-Token](https://sa-token.dev33.cn/doc/index.html#/): 鉴权工具
+  ...
+
+<br>
+<br>
+
 # 开发参考  
 ## 博客/文章  
 ...
@@ -34,6 +43,6 @@ Java Web 开发脚手架（开发中...）
 ## 书籍  
 ....
 
-## 项目  
-- (APIJSON)[https://github.com/vincentCheng/apijson-doc]:CRUD 接口生成工具
+
+## 参考项目  
 ...
