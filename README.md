@@ -7,14 +7,14 @@ Java Web 开发脚手架（开发中...）
 
 # 项目结构（计划）
 
-单体项目，基于 DDD 和 CQRS 架构规范。
+单体项目，基于 DDD 和 CQRS 架构。
 
 <br>
 <br>
 
 # 功能清单
 
-待补
+待补。
 
 <br>
 <br>
@@ -54,10 +54,22 @@ Java Web 开发脚手架（开发中...）
 <br>
 <br>
 
-# 项目开发规范
+# 规范
 
-- [阿里巴巴Java开发手册](https://github.com/alibaba/p3c)
-- [唯品会Java开发手册](https://github.com/vipshop/vjtools)
+## 开发规范
+
+- [阿里巴巴Java开发手册](https://github.com/alibaba/p3c)](https://github.com/vipshop/vjtools)
+
+
+## 文档规范
+
+- [Markdown 官方教程](https://markdown.com.cn/)
+
+
+## 语言
+
+- 代码注释：中文；
+- 项目说明：中文。
 
 <br>
 <br>
@@ -68,9 +80,11 @@ Java Web 开发脚手架（开发中...）
 
 ...
 
+
 ## 书籍
 
 ....
+
 
 ## 参考项目
 
