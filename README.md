@@ -7,7 +7,7 @@ Java SpringBoot 开发脚手架（开发中...）
 
 # 项目结构（计划）
 
-单体项目，基于  DDD（Domain-Driven Design） 和  CQRS（Command Query Responsibility Segregation） 原则。
+单体项目，基于 CQRS（Command Query Responsibility Segregation） 原则。
 
 <br>
 <br>
