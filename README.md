@@ -12,6 +12,7 @@ Java Web 开发脚手架（开发中...）
 - Mybatis MybatisPlus / Jpa （双持久层，可自由选择使用） 
 - Redis
 - Casbin、Spring Security
+- Nginx
 - ...
 
 <br>
@@ -34,4 +35,5 @@ Java Web 开发脚手架（开发中...）
 ....
 
 ## 项目  
+- (APIJSON)[https://github.com/vincentCheng/apijson-doc]:CRUD 接口生成工具
 ...
